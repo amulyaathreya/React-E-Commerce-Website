@@ -1,4 +1,4 @@
-The e-commerce website built using React.js and SQLite offers a powerful blend of modern front-end development and lightweight, local database management. React.js, a leading JavaScript library, ensures a dynamic and interactive user interface, while SQLite serves as a compact database solution for efficient data storage.
+The Fullstack e-commerce website built using React.js and SQLite offers a powerful blend of modern front-end development and lightweight, local database management. React.js, a leading JavaScript library, ensures a dynamic and interactive user interface, while SQLite serves as a compact database solution for efficient data storage.
 
 By harnessing React.js's component-based architecture, the site achieves modular design and reusability. This enables seamless creation and maintenance of diverse sections like product listings, user profiles, and shopping carts. Its responsive design guarantees consistent user experiences across devices, optimizing engagement and conversion rates.
 
